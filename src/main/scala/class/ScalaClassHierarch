@@ -1,0 +1,11 @@
+Any
+
+AnyVal
+    Unit  Boolean
+    Char ->          Int -> Long -> Float -> Double
+    Byte -> Short ->
+
+AnyRef (Object)
+    String
+    Nothing -> Null -> All other java classes
+    List -> Seq -> Iterable -> scala Object
